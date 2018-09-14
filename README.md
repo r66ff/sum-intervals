@@ -1,2 +1,4 @@
 # sum-intervals
-Just a code exercise
+To run the tests do
+`npm install`
+`npm test`
